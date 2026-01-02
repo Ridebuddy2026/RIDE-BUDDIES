@@ -1,3 +1,4 @@
+
 import ReactDOM from 'react-dom/client';
 import { InternetIdentityProvider } from './hooks/useInternetIdentity';
 import { initEditor } from './hooks/useEditor';
